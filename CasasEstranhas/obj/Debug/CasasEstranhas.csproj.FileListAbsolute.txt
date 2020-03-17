@@ -1,0 +1,15 @@
+D:\Servidor\Aula22\CasasEstranhas\CasasEstranhas\bin\CasasEstranhas.dll
+D:\Servidor\Aula22\CasasEstranhas\CasasEstranhas\bin\CasasEstranhas.pdb
+D:\Servidor\Aula22\CasasEstranhas\CasasEstranhas\obj\Debug\ResolveAssemblyReference.cache
+D:\Servidor\Aula22\CasasEstranhas\CasasEstranhas\obj\Debug\CasasEstranhas.dll
+D:\Servidor\Aula22\CasasEstranhas\CasasEstranhas\obj\Debug\CasasEstranhas.pdb
+C:\Users\André Bessa\Desktop\Aula23\CasasEstranhas\CasasEstranhas\bin\CasasEstranhas.dll
+C:\Users\André Bessa\Desktop\Aula23\CasasEstranhas\CasasEstranhas\bin\CasasEstranhas.pdb
+C:\Users\André Bessa\Desktop\Aula23\CasasEstranhas\CasasEstranhas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\André Bessa\Desktop\Aula23\CasasEstranhas\CasasEstranhas\obj\Debug\CasasEstranhas.dll
+C:\Users\André Bessa\Desktop\Aula23\CasasEstranhas\CasasEstranhas\obj\Debug\CasasEstranhas.pdb
+C:\Users\André Bessa\Desktop\Aula24\CasasEstranhas\CasasEstranhas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\André Bessa\Desktop\Aula24\CasasEstranhas\CasasEstranhas\obj\Debug\CasasEstranhas.dll
+C:\Users\andre\OneDrive\Desktop\CasasEstranhas\CasasEstranhas\obj\Debug\CasasEstranhas.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\CasasEstranhas\CasasEstranhas\obj\Debug\CasasEstranhas.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\CasasEstranhas\CasasEstranhas\obj\Debug\CasasEstranhas.dll
